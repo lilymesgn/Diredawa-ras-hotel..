@@ -1,0 +1,6 @@
+{
+  "name": "Dire Dawa Ras Hotel",
+  "description": "Established in 1964 E.C. in Kezira, Dire Dawa, Ethiopia, offering full-service legacy accommodations for business and leisure travelers on WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
